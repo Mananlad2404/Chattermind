@@ -121,7 +121,7 @@ chattermind/
 │ └── vite-env.d.ts
 ```
 
-## .env struture
+# .env structure
 
 ```
 GOOGLE_GENERATIVE_AI_API_KEY = Your google gemini key
@@ -132,9 +132,9 @@ JWT_SECRET = Your JWT Secret
 COOKIE_SECRET = Your Cookie Secret
 ```
 
-## How To Run Chattermind
+# How To Run Chattermind
 
-- Backend
+### Backend
 
 ```
 cd backend
@@ -146,14 +146,14 @@ cd python
 pip install
 ```
 
-- Frontend
+### Frontend
 
 ```
 cd frontend
 npm install
 ```
 
-- After all inatallations to run project, run all the three files in different terminals
+### After all inatallations to run project, run all the three files in different terminals
 
 ```
 cd backend
