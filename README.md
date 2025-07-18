@@ -123,14 +123,16 @@ chattermind/
 
 ## .env struture
 
+```
 GOOGLE_GENERATIVE_AI_API_KEY = Your google gemini key
 OPENAI_API_KEY = Your open AI key
 OPENAI_ORGANIZATION_ID = Your Open AI organisation ID
 MONGODB_URL = Your MongoDB URI
 JWT_SECRET = Your JWT Secret
 COOKIE_SECRET = Your Cookie Secret
+```
 
-# How To Run Chattermind
+## How To Run Chattermind
 
 - Backend
 
